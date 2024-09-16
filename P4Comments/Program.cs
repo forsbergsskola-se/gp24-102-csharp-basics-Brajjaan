@@ -1,4 +1,3 @@
-﻿Console.WriteLine("Bryan Vouriot");
-Console.WriteLine("2024-09-16");
-Console.WriteLine("Bryan.Vouriot@Student.Forsbergsskola.se");
-
+﻿Console.WriteLine ("Hello World"); /* Bryan Vouriot
+2024-09-16
+Bryan.Vouriot@Student.Forsbergsskola.se */
