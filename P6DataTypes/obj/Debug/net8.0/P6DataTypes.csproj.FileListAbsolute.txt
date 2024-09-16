@@ -1,0 +1,15 @@
+C:\Users\Bryan\OneDrive\Dokument\GitHub\gp24-102-csharp-basics-Brajjaan\P6DataTypes\bin\Debug\net8.0\P6DataTypes.exe
+C:\Users\Bryan\OneDrive\Dokument\GitHub\gp24-102-csharp-basics-Brajjaan\P6DataTypes\bin\Debug\net8.0\P6DataTypes.deps.json
+C:\Users\Bryan\OneDrive\Dokument\GitHub\gp24-102-csharp-basics-Brajjaan\P6DataTypes\bin\Debug\net8.0\P6DataTypes.runtimeconfig.json
+C:\Users\Bryan\OneDrive\Dokument\GitHub\gp24-102-csharp-basics-Brajjaan\P6DataTypes\bin\Debug\net8.0\P6DataTypes.dll
+C:\Users\Bryan\OneDrive\Dokument\GitHub\gp24-102-csharp-basics-Brajjaan\P6DataTypes\bin\Debug\net8.0\P6DataTypes.pdb
+C:\Users\Bryan\OneDrive\Dokument\GitHub\gp24-102-csharp-basics-Brajjaan\P6DataTypes\obj\Debug\net8.0\P6DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bryan\OneDrive\Dokument\GitHub\gp24-102-csharp-basics-Brajjaan\P6DataTypes\obj\Debug\net8.0\P6DataTypes.AssemblyInfoInputs.cache
+C:\Users\Bryan\OneDrive\Dokument\GitHub\gp24-102-csharp-basics-Brajjaan\P6DataTypes\obj\Debug\net8.0\P6DataTypes.AssemblyInfo.cs
+C:\Users\Bryan\OneDrive\Dokument\GitHub\gp24-102-csharp-basics-Brajjaan\P6DataTypes\obj\Debug\net8.0\P6DataTypes.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\OneDrive\Dokument\GitHub\gp24-102-csharp-basics-Brajjaan\P6DataTypes\obj\Debug\net8.0\P6DataTypes.sourcelink.json
+C:\Users\Bryan\OneDrive\Dokument\GitHub\gp24-102-csharp-basics-Brajjaan\P6DataTypes\obj\Debug\net8.0\P6DataTypes.dll
+C:\Users\Bryan\OneDrive\Dokument\GitHub\gp24-102-csharp-basics-Brajjaan\P6DataTypes\obj\Debug\net8.0\refint\P6DataTypes.dll
+C:\Users\Bryan\OneDrive\Dokument\GitHub\gp24-102-csharp-basics-Brajjaan\P6DataTypes\obj\Debug\net8.0\P6DataTypes.pdb
+C:\Users\Bryan\OneDrive\Dokument\GitHub\gp24-102-csharp-basics-Brajjaan\P6DataTypes\obj\Debug\net8.0\P6DataTypes.genruntimeconfig.cache
+C:\Users\Bryan\OneDrive\Dokument\GitHub\gp24-102-csharp-basics-Brajjaan\P6DataTypes\obj\Debug\net8.0\ref\P6DataTypes.dll
