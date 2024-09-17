@@ -1,0 +1,15 @@
+C:\Users\Bryan\OneDrive\Dokument\GitHub\gp24-102-csharp-basics-Brajjaan\P7Input\obj\Debug\net8.0\P7Input.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bryan\OneDrive\Dokument\GitHub\gp24-102-csharp-basics-Brajjaan\P7Input\obj\Debug\net8.0\P7Input.AssemblyInfoInputs.cache
+C:\Users\Bryan\OneDrive\Dokument\GitHub\gp24-102-csharp-basics-Brajjaan\P7Input\obj\Debug\net8.0\P7Input.AssemblyInfo.cs
+C:\Users\Bryan\OneDrive\Dokument\GitHub\gp24-102-csharp-basics-Brajjaan\P7Input\obj\Debug\net8.0\P7Input.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\OneDrive\Dokument\GitHub\gp24-102-csharp-basics-Brajjaan\P7Input\obj\Debug\net8.0\P7Input.sourcelink.json
+C:\Users\Bryan\OneDrive\Dokument\GitHub\gp24-102-csharp-basics-Brajjaan\P7Input\bin\Debug\net8.0\P7Input.exe
+C:\Users\Bryan\OneDrive\Dokument\GitHub\gp24-102-csharp-basics-Brajjaan\P7Input\bin\Debug\net8.0\P7Input.deps.json
+C:\Users\Bryan\OneDrive\Dokument\GitHub\gp24-102-csharp-basics-Brajjaan\P7Input\bin\Debug\net8.0\P7Input.runtimeconfig.json
+C:\Users\Bryan\OneDrive\Dokument\GitHub\gp24-102-csharp-basics-Brajjaan\P7Input\bin\Debug\net8.0\P7Input.dll
+C:\Users\Bryan\OneDrive\Dokument\GitHub\gp24-102-csharp-basics-Brajjaan\P7Input\bin\Debug\net8.0\P7Input.pdb
+C:\Users\Bryan\OneDrive\Dokument\GitHub\gp24-102-csharp-basics-Brajjaan\P7Input\obj\Debug\net8.0\P7Input.dll
+C:\Users\Bryan\OneDrive\Dokument\GitHub\gp24-102-csharp-basics-Brajjaan\P7Input\obj\Debug\net8.0\refint\P7Input.dll
+C:\Users\Bryan\OneDrive\Dokument\GitHub\gp24-102-csharp-basics-Brajjaan\P7Input\obj\Debug\net8.0\P7Input.pdb
+C:\Users\Bryan\OneDrive\Dokument\GitHub\gp24-102-csharp-basics-Brajjaan\P7Input\obj\Debug\net8.0\P7Input.genruntimeconfig.cache
+C:\Users\Bryan\OneDrive\Dokument\GitHub\gp24-102-csharp-basics-Brajjaan\P7Input\obj\Debug\net8.0\ref\P7Input.dll

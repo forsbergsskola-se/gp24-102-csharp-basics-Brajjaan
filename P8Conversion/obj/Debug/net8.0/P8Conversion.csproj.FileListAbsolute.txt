@@ -1,0 +1,15 @@
+C:\Users\Bryan\OneDrive\Dokument\GitHub\gp24-102-csharp-basics-Brajjaan\P8Conversion\obj\Debug\net8.0\P8Conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bryan\OneDrive\Dokument\GitHub\gp24-102-csharp-basics-Brajjaan\P8Conversion\obj\Debug\net8.0\P8Conversion.AssemblyInfoInputs.cache
+C:\Users\Bryan\OneDrive\Dokument\GitHub\gp24-102-csharp-basics-Brajjaan\P8Conversion\obj\Debug\net8.0\P8Conversion.AssemblyInfo.cs
+C:\Users\Bryan\OneDrive\Dokument\GitHub\gp24-102-csharp-basics-Brajjaan\P8Conversion\obj\Debug\net8.0\P8Conversion.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\OneDrive\Dokument\GitHub\gp24-102-csharp-basics-Brajjaan\P8Conversion\obj\Debug\net8.0\P8Conversion.sourcelink.json
+C:\Users\Bryan\OneDrive\Dokument\GitHub\gp24-102-csharp-basics-Brajjaan\P8Conversion\bin\Debug\net8.0\P8Conversion.exe
+C:\Users\Bryan\OneDrive\Dokument\GitHub\gp24-102-csharp-basics-Brajjaan\P8Conversion\bin\Debug\net8.0\P8Conversion.deps.json
+C:\Users\Bryan\OneDrive\Dokument\GitHub\gp24-102-csharp-basics-Brajjaan\P8Conversion\bin\Debug\net8.0\P8Conversion.runtimeconfig.json
+C:\Users\Bryan\OneDrive\Dokument\GitHub\gp24-102-csharp-basics-Brajjaan\P8Conversion\bin\Debug\net8.0\P8Conversion.dll
+C:\Users\Bryan\OneDrive\Dokument\GitHub\gp24-102-csharp-basics-Brajjaan\P8Conversion\bin\Debug\net8.0\P8Conversion.pdb
+C:\Users\Bryan\OneDrive\Dokument\GitHub\gp24-102-csharp-basics-Brajjaan\P8Conversion\obj\Debug\net8.0\P8Conversion.dll
+C:\Users\Bryan\OneDrive\Dokument\GitHub\gp24-102-csharp-basics-Brajjaan\P8Conversion\obj\Debug\net8.0\refint\P8Conversion.dll
+C:\Users\Bryan\OneDrive\Dokument\GitHub\gp24-102-csharp-basics-Brajjaan\P8Conversion\obj\Debug\net8.0\P8Conversion.pdb
+C:\Users\Bryan\OneDrive\Dokument\GitHub\gp24-102-csharp-basics-Brajjaan\P8Conversion\obj\Debug\net8.0\P8Conversion.genruntimeconfig.cache
+C:\Users\Bryan\OneDrive\Dokument\GitHub\gp24-102-csharp-basics-Brajjaan\P8Conversion\obj\Debug\net8.0\ref\P8Conversion.dll
