@@ -1,15 +1,22 @@
-﻿Console.WriteLine("Give me a number");
+﻿using System.Globalization;
 
-string input = Console.ReadLine();
+Thread.CurrentThread.CurrentCulture = CultureInfo.InvariantCulture;
 
-double d = Convert.ToDouble(input);
-
-Console.WriteLine(d);
-
-int i = Convert.ToInt32(input);
-Console.WriteLine(i);
+Console.WriteLine("Give me a number");
 
 
 
+string number = Console.ReadLine();
+
+float numberAsFloat = float.Parse(number);
+
+Console.WriteLine(numberAsFloat);
+
+int numberAsInt = Convert.ToInt32(numberAsFloat);
+
+
+numberAsInt = (int)numberAsFloat;
+
+Console.WriteLine(numberAsInt);
 
 

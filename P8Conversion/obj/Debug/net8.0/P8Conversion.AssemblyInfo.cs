@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("P8Conversion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+533e853f3956dff8e2d332e88a82432c04d54179")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a28077d393da40d71e44391e6221b1574b03724")]
 [assembly: System.Reflection.AssemblyProductAttribute("P8Conversion")]
 [assembly: System.Reflection.AssemblyTitleAttribute("P8Conversion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
