@@ -8,12 +8,12 @@ int num1 = random.Next(0, 5);
 int num2 = random.Next(0, 5);
 int num3 = random.Next(0, 5);
 
-Console.WriteLine("Three integers between 1-5");
+Console.WriteLine("Three integers between 0-5");
 Console.WriteLine(num1);
 Console.WriteLine(num2);
 Console.WriteLine(num3);
 
-Console.WriteLine("Three numbers between 0 -0.5");
+Console.WriteLine("Three numbers between 0 - 0.5");
 
 double num4 = random.NextDouble()*0.5;
 double num5 = random.NextDouble()*0.5;
@@ -35,7 +35,23 @@ Console.WriteLine(num9);
 
 Console.WriteLine("Give me a crit chance between 0,0 (0%) and 1,0 (100%)");
 
+
 Double critChance = Double.Parse(Console.ReadLine());
+
+double roll = critChance;
+
+for (int i = 0; i < 5; i++)
+{
+    Console.WriteLine(roll);
+
+    if (Random.Shared.NextDouble() < critChance)
+    {
+        Console.WriteLine("crit");
+    }
+    else Console.WriteLine("no crit");
+
+}
+
 
 
 
