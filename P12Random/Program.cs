@@ -40,6 +40,8 @@ Double critChance = Double.Parse(Console.ReadLine());
 
 double roll = critChance;
 
+
+
 for (int i = 0; i < 5; i++)
 {
     Console.WriteLine(roll);
