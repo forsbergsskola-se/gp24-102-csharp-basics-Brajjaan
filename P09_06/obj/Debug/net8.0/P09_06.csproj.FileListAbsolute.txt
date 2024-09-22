@@ -1,0 +1,15 @@
+C:\Users\Bryan\OneDrive\Dokument\GitHub\gp24-102-csharp-basics-Brajjaan\P09_06\bin\Debug\net8.0\P09_06.exe
+C:\Users\Bryan\OneDrive\Dokument\GitHub\gp24-102-csharp-basics-Brajjaan\P09_06\bin\Debug\net8.0\P09_06.deps.json
+C:\Users\Bryan\OneDrive\Dokument\GitHub\gp24-102-csharp-basics-Brajjaan\P09_06\bin\Debug\net8.0\P09_06.runtimeconfig.json
+C:\Users\Bryan\OneDrive\Dokument\GitHub\gp24-102-csharp-basics-Brajjaan\P09_06\bin\Debug\net8.0\P09_06.dll
+C:\Users\Bryan\OneDrive\Dokument\GitHub\gp24-102-csharp-basics-Brajjaan\P09_06\bin\Debug\net8.0\P09_06.pdb
+C:\Users\Bryan\OneDrive\Dokument\GitHub\gp24-102-csharp-basics-Brajjaan\P09_06\obj\Debug\net8.0\P09_06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bryan\OneDrive\Dokument\GitHub\gp24-102-csharp-basics-Brajjaan\P09_06\obj\Debug\net8.0\P09_06.AssemblyInfoInputs.cache
+C:\Users\Bryan\OneDrive\Dokument\GitHub\gp24-102-csharp-basics-Brajjaan\P09_06\obj\Debug\net8.0\P09_06.AssemblyInfo.cs
+C:\Users\Bryan\OneDrive\Dokument\GitHub\gp24-102-csharp-basics-Brajjaan\P09_06\obj\Debug\net8.0\P09_06.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\OneDrive\Dokument\GitHub\gp24-102-csharp-basics-Brajjaan\P09_06\obj\Debug\net8.0\P09_06.sourcelink.json
+C:\Users\Bryan\OneDrive\Dokument\GitHub\gp24-102-csharp-basics-Brajjaan\P09_06\obj\Debug\net8.0\P09_06.dll
+C:\Users\Bryan\OneDrive\Dokument\GitHub\gp24-102-csharp-basics-Brajjaan\P09_06\obj\Debug\net8.0\refint\P09_06.dll
+C:\Users\Bryan\OneDrive\Dokument\GitHub\gp24-102-csharp-basics-Brajjaan\P09_06\obj\Debug\net8.0\P09_06.pdb
+C:\Users\Bryan\OneDrive\Dokument\GitHub\gp24-102-csharp-basics-Brajjaan\P09_06\obj\Debug\net8.0\P09_06.genruntimeconfig.cache
+C:\Users\Bryan\OneDrive\Dokument\GitHub\gp24-102-csharp-basics-Brajjaan\P09_06\obj\Debug\net8.0\ref\P09_06.dll
