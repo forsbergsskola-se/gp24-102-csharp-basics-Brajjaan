@@ -35,18 +35,14 @@ Console.WriteLine(num9);
 
 Console.WriteLine("Give me a crit chance between 0,0 (0%) and 1,0 (100%)");
 
-
-Double critChance = Double.Parse(Console.ReadLine());
-
-double roll = critChance;
-
+Double chance = Double.Parse(Console.ReadLine());
 
 
 for (int i = 0; i < 5; i++)
 {
-    Console.WriteLine(roll);
+   
 
-    if (Random.Shared.NextDouble() < critChance)
+    if (random.NextDouble() < chance)
     {
         Console.WriteLine("crit");
     }
