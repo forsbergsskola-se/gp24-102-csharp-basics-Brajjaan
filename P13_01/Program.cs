@@ -1,4 +1,7 @@
-﻿int balance =  50;
+﻿#region old code
+/*
+MISSUNDERSTOOD THE ASSIGNMENT
+int balance =  50;
 bool transactionComplete = false;
 
 
@@ -18,3 +21,19 @@ while (!transactionComplete)
         transactionComplete = true;
     }
 }
+*/
+#endregion
+
+
+Console.WriteLine("How much would you like to withdraw?");
+
+int withdrawAmount;
+
+while (!int.TryParse(Console.ReadLine(), out withdrawAmount))
+{
+    Console.WriteLine("Please enter a valid number");
+}
+
+Console.WriteLine($"{new string('$', withdrawAmount)}");
+
+
