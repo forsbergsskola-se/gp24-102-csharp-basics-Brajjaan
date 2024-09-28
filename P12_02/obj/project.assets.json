@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bryan\\OneDrive\\Dokument\\GitHub\\gp24-102-csharp-basics-Brajjaan\\P12_01\\P12_01.csproj",
-      "projectName": "P12_01",
-      "projectPath": "C:\\Users\\Bryan\\OneDrive\\Dokument\\GitHub\\gp24-102-csharp-basics-Brajjaan\\P12_01\\P12_01.csproj",
+      "projectUniqueName": "C:\\Users\\Bryan\\OneDrive\\Dokument\\GitHub\\gp24-102-csharp-basics-Brajjaan\\P12_02\\P12_02.csproj",
+      "projectName": "P12_02",
+      "projectPath": "C:\\Users\\Bryan\\OneDrive\\Dokument\\GitHub\\gp24-102-csharp-basics-Brajjaan\\P12_02\\P12_02.csproj",
       "packagesPath": "C:\\Users\\Bryan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bryan\\OneDrive\\Dokument\\GitHub\\gp24-102-csharp-basics-Brajjaan\\P12_01\\obj\\",
+      "outputPath": "C:\\Users\\Bryan\\OneDrive\\Dokument\\GitHub\\gp24-102-csharp-basics-Brajjaan\\P12_02\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bryan\\AppData\\Roaming\\NuGet\\NuGet.Config"
