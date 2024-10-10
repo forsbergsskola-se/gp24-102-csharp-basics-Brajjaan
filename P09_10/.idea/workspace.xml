@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b5801a1-c640-4791-915a-c01cb09ddd25" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/P09_10.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/P09_10.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/P09_10.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/P09_10.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P11_01/bin/Debug/net8.0/P11_01.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../P11_01/bin/Debug/net8.0/P11_01.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P11_01/bin/Debug/net8.0/P11_01.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../P11_01/bin/Debug/net8.0/P11_01.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P11_01/bin/Debug/net8.0/P11_01.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../P11_01/bin/Debug/net8.0/P11_01.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P11_01/obj/Debug/net8.0/P11_01.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../P11_01/obj/Debug/net8.0/P11_01.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P11_01/obj/Debug/net8.0/P11_01.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../P11_01/obj/Debug/net8.0/P11_01.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P11_01/obj/Debug/net8.0/P11_01.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../P11_01/obj/Debug/net8.0/P11_01.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P11_01/obj/Debug/net8.0/P11_01.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../P11_01/obj/Debug/net8.0/P11_01.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P11_01/obj/Debug/net8.0/P11_01.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/../P11_01/obj/Debug/net8.0/P11_01.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P11_01/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../P11_01/obj/Debug/net8.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P11_01/obj/Debug/net8.0/ref/P11_01.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../P11_01/obj/Debug/net8.0/ref/P11_01.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P11_01/obj/Debug/net8.0/refint/P11_01.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../P11_01/obj/Debug/net8.0/refint/P11_01.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P12_02/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../P12_02/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P12_02/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../P12_02/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P12_02/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../P12_02/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P12_02/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../P12_02/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P12_02/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/../P12_02/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P12_02/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../P12_02/obj/rider.project.restore.info" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../P13GoTo/Program.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2miG3MyVETFjjZjO98BX1Ae6FIi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b5801a1-c640-4791-915a-c01cb09ddd25" name="Changes" comment="" />
+      <created>1727551783964</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727551783964</updated>
+      <workItem from="1727551785890" duration="51000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
